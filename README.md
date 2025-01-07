@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @hykyura
-- 👀 I’m interested in Developing Discord Bot, SA-MP Server.
-- 🌱 I’m currently learning Pawn, CSS, Python, JavaScript.
-- 😄 Pronouns: he/him
-- 
+SA-MP Addict.
+
+Currently learning Javascript, Python.
