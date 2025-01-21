@@ -1,3 +1,8 @@
-SA-MP Addict.
+# My Profile
 
-Currently learning Javascript, Python.
+I'm a Junior Programmer. Learning Programming things since 2023.
+
+## What I have Learn
+
+- Website Development
+- SA-MP Server
